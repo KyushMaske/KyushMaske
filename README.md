@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Kyush Maskey</h1>
 <h3 align="center">I am constantly seeking out new opportunities to expand my knowledge and skills, and am driven to use my expertise to make a meaningful impact.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyushmaskey&label=Profile%20views&color=0e75b6&style=flat" alt="kyushmaskey" /> </p>
 
 - 📫 How to reach me **kyushmaskey123@gmail.com**
 
